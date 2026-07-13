@@ -119,8 +119,7 @@ Real-time chat application with low-latency, bidirectional WebSocket messaging.
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Razaakhtar-coder&no-frame=true&no-bg=true&theme=nord&row=1&column=6" />
-</p>
+  
 
 ### 📈 Contribution Activity
 
