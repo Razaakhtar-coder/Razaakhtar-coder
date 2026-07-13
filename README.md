@@ -108,9 +108,7 @@ Real-time chat application with low-latency, bidirectional WebSocket messaging.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Razaakhtar-coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razaakhtar-coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
-</p>
+  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Razaakhtar-coder&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
