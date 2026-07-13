@@ -65,7 +65,7 @@ Real-time social networking & messaging platform with secure auth and friend con
 | Backend/Auth | Appwrite, JWT |
 
 <a href="https://github.com/Razaakhtar-coder/Social-Media-Mega-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razaakhtar-coder&repo=Social-Media-Mega-Project&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+  
 </a>
 
 **Code:** [github.com/Razaakhtar-coder/Social-Media-Mega-Project](https://github.com/Razaakhtar-coder/Social-Media-Mega-Project)
@@ -79,7 +79,7 @@ Real-time chat application with low-latency, bidirectional WebSocket messaging.
 | Data | Django ORM |
 
 <a href="https://github.com/Razaakhtar-coder/ChatApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razaakhtar-coder&repo=ChatApp&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+  
 </a>
 
 **Code:** [github.com/Razaakhtar-coder/ChatApp](https://github.com/Razaakhtar-coder/ChatApp)
